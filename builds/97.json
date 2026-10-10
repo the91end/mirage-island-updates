@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "build": 97,
+  "shell": 1,
+  "version": "0.1.0",
+  "commit": "3b9cc28",
+  "updateUrl": "https://raw.githubusercontent.com/the91end/mirage-island-updates/main/",
+  "files": [
+    {
+      "path": "assets/anime-head-face-GBScbDt_.png",
+      "size": 162183,
+      "sha256": "cc7d967d17ad594060193ba78cef0b1cd9d432b45088cefdd09dd626e6439fa1"
+    },
+    {
+      "path": "assets/anime-head-skin-DL_8qoVd.png",
+      "size": 21924,
+      "sha256": "7d9454609b2df030a2403934ab7fd40f8eec38ac20ba5b792ea510afcc216568"
+    },
+    {
+      "path": "assets/bram-CF7IpCzf.glb",
+      "size": 531004,
+      "sha256": "6ec4f5ed762448fbb11262a04148f2fd5abe634d1f22ef25f80ea00558b06d16"
+    },
+    {
+      "path": "assets/clara-023Db-IV.glb",
+      "size": 778880,
+      "sha256": "4837a31b469b231ee6c291ac5af1feb6567feee7791fac105f6b8a9499d594e8"
+    },
+    {
+      "path": "assets/dirt-B7vydcLX.jpg",
+      "size": 13164,
+      "sha256": "6af35da7175a6f98d81472ecd1c8f5e7ede2374ba552b56d5b5a6199367f9605"
+    },
+    {
+      "path": "assets/fen-ChqiXThN.glb",
+      "size": 474276,
+      "sha256": "d6f14d536595cd6bcacd1acd82b0ba0fc3d857f4bfe080a836a60d489c980e37"
+    },
+    {
+      "path": "assets/foliage-CedIKR4Q.png",
+      "size": 4233,
+      "sha256": "b89eeb55264458a1e7257c2b8051ef5717270abb4fa8ed12e3d24ce5f123fc1c"
+    },
+    {
+      "path": "assets/glow-gInNYHM7.png",
+      "size": 4444,
+      "sha256": "1f811d38abe84adc6b9e7eb56d4ca3c031b4099bd0ba337778c26b7527398307"
+    },
+    {
+      "path": "assets/grass-DzPh1l_u.jpg",
+      "size": 23513,
+      "sha256": "df0d6cc44a0da285cbad36d92dc672003d0b1998e5c653f437c847c70bb9971b"
+    },
+    {
+      "path": "assets/hazel-Betx4y6G.glb",
+      "size": 847988,
+      "sha256": "010b23e2198bf7977671573d8ed0964b06685fcf79c7d5296d82d5b6f960e9f2"
+    },
+    {
+      "path": "assets/ilse-BrQ-INZW.glb",
+      "size": 960324,
+      "sha256": "fe22eb2eb81544b3e222def47488f708451c846bed757b7795e46aae2799e39d"
+    },
+    {
+      "path": "assets/index-Cv_g9cAK.js",
+      "size": 2929221,
+      "sha256": "668b30ca46ad2ecddbee3f65764e8ba874c87e0281b0047fc092646426587dcb"
+    },
+    {
+      "path": "assets/index-qgm_Ybnc.css",
+      "size": 37116,
+      "sha256": "2644e8faf6543cfda94a4a0ba12cd78ffcbb4b7bf7983fca7c4041c44c8a1c95"
+    },
+    {
+      "path": "assets/ivy-BYNFqxFB.glb",
+      "size": 884956,
+      "sha256": "f5a4a42c5af61fbb856d3d5acaac29e5499baa4626a9480d8c840c3f71160c71"
+    },
+    {
+      "path": "assets/kit-DznyKG75.glb",
+      "size": 626172,
+      "sha256": "e6d09d3ecf05b8791faef75bbe512e8c394fe75adeddf2c2b84b2251f96e76b1"
+    },
+    {
+      "path": "assets/lia-CDUNSA1y.glb",
+      "size": 797880,
+      "sha256": "bc3cf37c67fc96fd10d75b7c8a5373ffb785ae46695201079481de86459a4fef"
+    },
+    {
+      "path": "assets/maren-CgITDRQq.glb",
+      "size": 657092,
+      "sha256": "feadfc8df6c6291e615483defb797b3efa4ff3ab06e586c215e78b6630830b9d"
+    },
+    {
+      "path": "assets/nature-CZUV9Lsj.glb",
+      "size": 1514088,
+      "sha256": "1736e188bbaf097d4d0090e02bcf164d781d805a471e0ffaedbe541c44e46359"
+    },
+    {
+      "path": "assets/odo-DTrvUae7.glb",
+      "size": 624428,
+      "sha256": "c01b5459a6477adafa0c95b2b5a22fea3398a62ad9fe0c5a661c964a6e88897a"
+    },
+    {
+      "path": "assets/pip-D4OCSlDT.glb",
+      "size": 821636,
+      "sha256": "9a723def9dd005b13b436e91096167eac9c681851316cbdce16edb6f6ab26d47"
+    },
+    {
+      "path": "assets/player-CPUPt72U.glb",
+      "size": 644676,
+      "sha256": "9657a2d952470790a331858afd50c6ba849efa9da0c03c42e0427708ed46921d"
+    },
+    {
+      "path": "assets/rosa-BDXAf1fl.glb",
+      "size": 960076,
+      "sha256": "099d5cd0263d5eaa2140fa57845fc9f38cd080530530e46a084c74e7d513ac0d"
+    },
+    {
+      "path": "assets/sand-Dxd5hhV3.jpg",
+      "size": 8512,
+      "sha256": "0bd104e0e385463ac6c2185423cb849bbc0a9f1e745b183de025d5bfe74f6921"
+    },
+    {
+      "path": "assets/silas-D5sCbe9d.glb",
+      "size": 807360,
+      "sha256": "a5c91c17b0563045eaa7e48a42f0fcce6dd77d4b083ebe49e638ae5f7a3a2088"
+    },
+    {
+      "path": "assets/smoke-CIDXmXne.png",
+      "size": 16524,
+      "sha256": "479ec131dfdabb7ab2dcfc37b7ce463bf7299ea753d943a1b6350126df1a494a"
+    },
+    {
+      "path": "assets/stone-CzwMQUbk.jpg",
+      "size": 4133,
+      "sha256": "70b84c162b49d9d6c84ffe1b5e14971202c13f3b117a4c9f3bd22826c9f6bc64"
+    },
+    {
+      "path": "assets/swirl-B8POPCLw.png",
+      "size": 11428,
+      "sha256": "0273236a6ea7aabe8a9c22bbf9647bf9a6da59d68c22a32ca0d2b64c22c2ed5c"
+    },
+    {
+      "path": "assets/water-normal-BmqLsv02.jpg",
+      "size": 5157,
+      "sha256": "94ab9c6879850408e7537c14a4eb3b75e34c0bf14b62c414bdb06df2187301ea"
+    },
+    {
+      "path": "assets/wren-C2DYOrhn.glb",
+      "size": 768848,
+      "sha256": "2e0f00c616786e75c9349f9baab76147044e13175428bab277e6fc2c94477f73"
+    },
+    {
+      "path": "index.html",
+      "size": 1265,
+      "sha256": "518f23a7f233f03583260a1254df639413d9bd9f9c228d9d81d5345653900ebf"
+    }
+  ]
+}

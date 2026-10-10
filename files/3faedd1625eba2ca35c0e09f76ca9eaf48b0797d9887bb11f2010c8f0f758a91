@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#87b8e0" />
+    <title>Mirage Island</title>
+    <script type="module" crossorigin src="./assets/index-CtjCWQ5G.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BQlcCtrK.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    <div id="hud">
+      <div id="hint"></div>
+    </div>
+    <div id="touch-ui" hidden>
+      <div id="joystick"><div id="joystick-knob"></div></div>
+      <button id="jump-btn" type="button" aria-label="Jump">Jump</button>
+    </div>
+    <div id="loading-screen" class="loading-screen">
+      <div class="loading-inner">
+        <h1 class="loading-title">Mirage Island</h1>
+        <p id="loading-area" class="loading-area"></p>
+        <div class="loading-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-label="Loading">
+          <div id="loading-bar-fill" class="loading-bar-fill"></div>
+        </div>
+        <p id="loading-step" class="loading-step"></p>
+        <p id="loading-tip" class="loading-tip"></p>
+      </div>
+    </div>
+  </body>
+</html>
